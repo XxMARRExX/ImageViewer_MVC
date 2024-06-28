@@ -36,13 +36,13 @@ Esta transformación te permite parametrizar los métodos con diferentes solicit
 Aquí algunas capturas de pantalla de la aplicación en acción:
 
 ### Especificación del directorio
-![image](https://github.com/XxMARRExX/ImageViewer_MVC/assets/95377322/11403323-d573-4a82-9976-3eaf9b0c035c))
+![image](https://github.com/XxMARRExX/ImageViewer_MVC/assets/95377322/11403323-d573-4a82-9976-3eaf9b0c035c)
 
 ### Navegación por los directorios
-![image](https://github.com/XxMARRExX/ImageViewer_MVC/assets/95377322/9463d844-06c7-4012-bbdb-13bfb3a42952))
+![image](https://github.com/XxMARRExX/ImageViewer_MVC/assets/95377322/9463d844-06c7-4012-bbdb-13bfb3a42952)
 
 ### Visualización de imágenes
-![image](https://github.com/XxMARRExX/ImageViewer_MVC/assets/95377322/f8d2c5c1-46aa-44c6-ae54-6c78e9327999))
+![image](https://github.com/XxMARRExX/ImageViewer_MVC/assets/95377322/f8d2c5c1-46aa-44c6-ae54-6c78e9327999)
 
 
 ## Tecnologías Utilizadas
