@@ -48,6 +48,6 @@ public class FileImageLoader implements ImageLoader{
                 assert files != null;
                 return imageAt((i-1 + files.length) % files.length);
             }
-        }
+        };
     }
 }
