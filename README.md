@@ -62,8 +62,8 @@ Para ejecutar `ImageViewer MVC` en tu entorno local, sigue estos pasos:
 ### Instalación
 1. Clona el repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/imageviewer-mvc.git
-   cd imageviewer-mvc
+   git clone https://github.com/XxMARRExX/ImageViewer_MVC.git
+   cd ImageViewer_MVC
 2. Ejecuta en tu consola el comando:
    ```bash
    java -jar .\out\artifacts\ImageViewer_MVC_jar\ImageViewer_MVC.jar
